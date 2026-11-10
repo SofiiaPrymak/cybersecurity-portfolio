@@ -88,6 +88,6 @@ Expected Graduation: 2028
 ## Contact
 
 - LinkedIn: Sofiia Prymak
-- GitHub: github.com/SofiiaPrymak
+- GitHub: https://github.com/SofiiaPrymak
 
 I am interested in cybersecurity internship and work placement opportunities where I can continue developing my technical skills and gain practical experience.
