@@ -25,7 +25,7 @@ Key Features:
 
 Technologies: Python, Log Analysis, IOC Matching, Threat Detection.
 
-View Project →
+View Project → https://github.com/SofiiaPrymak/python-security-log-analysis
 
 ---
 
@@ -43,7 +43,7 @@ Key Areas:
 
 Technologies: AWS, EC2, VPC, RDS, S3, IAM, WAF, CloudTrail.
 
-View Project →
+View Project → https://github.com/SofiiaPrymak/aws-secure-cloud-infrastructure
 
 ---
 
@@ -59,7 +59,7 @@ Key Areas:
 
 Technologies: MySQL, MySQL Workbench, SQL.
 
-View Project →
+View Project → https://github.com/SofiiaPrymak/hospital-database-management
 
 ---
 
